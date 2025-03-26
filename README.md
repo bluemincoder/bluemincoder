@@ -111,7 +111,7 @@
   <br />
   <img src="https://leetcard.jacoblin.cool/bluemincoder?theme=nord&font=Kaisei%20HarunoUmi&ext=contest" alt="Leetcode Stats" />
   <br />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=biraj01&theme=aura&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=bluemincoder&theme=aura&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
   <br />
   <img src="https://github-profile-trophy.vercel.app?username=bluemincoder&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <br />
