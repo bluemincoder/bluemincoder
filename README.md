@@ -1,6 +1,6 @@
 <h1> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" height="40" width="40">, I'm <span style="color: #007bff;">MINAL SATANKAR</span></h1>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=Competitive-Programmer....;Full-Stack-Developer....;CPP+Developer....;Ui/Ux Developer....&color=grey"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=Competitive-Programmer.......;Full-Stack-Developer.......;Ui/Ux+Developer.......&color=grey"/>
 </div>
 
 I'm Minal Satankar a Competitive programmer and an aspiring full stack web developer. I Spend most of the time solving programming problems.</p>
