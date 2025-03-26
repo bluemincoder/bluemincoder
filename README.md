@@ -1,14 +1,22 @@
-<h1> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" height="40" width="40">, I'm ░▒▓█ <span style="color: #007bff;">MINAL SATANKAR</span> █▓▒░ </h1>
+<h1> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" height="40" width="40">, I'm <span style="color: #007bff;">MINAL SATANKAR</span></h1>
 <div>
-  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=Competitive-Programmer...................;......Full-Stack-Developer......;..............CPP+Developer&color=E4405F"/>
+  <img align="middle" alt="GIF" src="https://readme-typing-svg.herokuapp.com?lines=Competitive-Programmer....;Full-Stack-Developer....;CPP+Developer....;Ui/Ux Developer....&color=grey"/>
 </div>
+
+I'm Minal Satankar a Competitive programmer and an aspiring full stack web developer. I Spend most of the time solving programming problems.</p>
+<div><img style="margin-right: 400px;" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" ></div>
+
+# 💫 About Me:
+
+🔭 I’m currently Third Year Student at, Indian Institute of Information Technology, Bhagalpur.<br>👯 I’m looking to collaborate on Competitive Programming and Full stack web development.<br>🌱 I’m currently learning Devops.<br>💬 Ask me about anything related to dev and CP.
+
 
 <br/>
 <div>
 
 ###
 
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRucW8yOWEwcHlubHVteGoxMnF2cHZpYjFwaHA0ZWNhYXBtNjIxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif"  />
+
 
 ###
 
@@ -102,20 +110,13 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bluemincoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" alt="stats graph"  />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluemincoder&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"  />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=bluemincoder&theme=dracula" alt="GitHub Streak" />
-  <br />
-  <img src="https://leetcard.jacoblin.cool/bluemincoder?theme=nord&font=Kaisei%20HarunoUmi&ext=contest" alt="Leetcode Stats" />
-  <br />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=bluemincoder&theme=aura&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app?username=bluemincoder&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bluemincoder&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+# 📊 Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bluemincoder&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=bluemincoder&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bluemincoder&theme=great-gatsby&hide_border=false)
+![](https://leetcard.jacoblin.cool/bluemincoder?theme=dark&font=Kaisei%20HarunoUmi&ext=contest)
+![](https://codeforces-readme-stats.vercel.app/api/card?username=bluemincoder&theme=aura&disable_animations=false&show_icons=true&force_username=true)
+
 
 ###
