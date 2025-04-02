@@ -116,7 +116,8 @@ I'm Minal Satankar a Competitive programmer and an aspiring full stack web devel
 ![](https://github-readme-stats.vercel.app/api?username=bluemincoder&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bluemincoder&theme=great-gatsby&hide_border=false)
 ![](https://leetcard.jacoblin.cool/bluemincoder?theme=dark&font=Kaisei%20HarunoUmi&ext=contest)
-![](https://codeforces-readme-stats.vercel.app/api/card?username=bluemincoder&theme=aura&disable_animations=false&show_icons=true&force_username=true)
+![](https://raw.githubusercontent.com/bluemincoder/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/bluemincoder/cf-stats/main/output/rating.svg)
 
 
 ###
