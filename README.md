@@ -8,7 +8,7 @@ I'm Minal Satankar a Competitive programmer and an aspiring full stack web devel
 
 # 💫 About Me:
 
-🔭 I’m currently Third Year Student at, Indian Institute of Information Technology, Bhagalpur.<br>👯 I’m looking to collaborate on Competitive Programming and Full stack web development.<br>🌱 I’m currently learning Devops.<br>💬 Ask me about anything related to dev and CP.
+🔭 I’m currently 4th Year Student at, Indian Institute of Information Technology, Bhagalpur.<br>👯 I’m looking to collaborate on Competitive Programming and Full stack web development.<br>🌱 I’m currently learning Devops.<br>💬 Ask me about anything related to dev and CP.
 
 
 <br/>
