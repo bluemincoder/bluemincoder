@@ -104,12 +104,6 @@ I'm Minal Satankar a Competitive programmer and an aspiring full stack web devel
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sanghaibiraj/count.svg?"  />
-</div>
-
-###
-
 # 📊 Stats:
 ![](https://leetcard.jacoblin.cool/bluemincoder?theme=dark&font=Kaisei%20HarunoUmi&ext=contest)
 ![](https://codeforces-readme-stats.vercel.app/api/card?username=bluemincoder&theme=dark)
