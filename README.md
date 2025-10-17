@@ -102,10 +102,6 @@ I'm Minal Satankar a Competitive programmer and an aspiring full stack web devel
   <img align="left" alt="GIF" src="https://github.com/siddiq0611/git_repo/blob/main/grid_snake.svg"/>
 </div>
 
-###
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=bluemincoder&theme=react-dark"/>
 
 ###
 
